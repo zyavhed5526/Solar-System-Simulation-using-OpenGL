@@ -1,2 +1,16 @@
-# Solar-System-Simulation-using-OpenGL
-Created a dynamic solar system simulation using OpenGL as an academic project during the 5th semester at Pulchowk Campus. This project visually depicts the planetary orbits and rotations with realistic lighting and textures, showcasing proficiency in computer graphics and programming.
+# Solar System in C++ using legacy OpenGL
+
+## How to run in Visual Studio
+
+1. Open SolarSystem.vcxproj
+
+2. Run
+
+3. Look at console for interaction instructions
+
+
+## Example
+
+##### Solar System with labels on and orbital trails
+
+![SolarSystem](http://i.imgur.com/iY0HtjV.png)
